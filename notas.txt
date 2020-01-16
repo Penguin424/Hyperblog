@@ -7,3 +7,7 @@ Git log te permite ver la historia de todos los commits realizados
 Git reset (idCommit) --hard regresa a ese estado en el commit borrando los que tenga enfrente
 
 Git reset (idCommit) --soft regresa a ese estado en el commit dejando los que tenga enfrente
+
+Git checkout nos permite regresar a un estadi anterior ya se por el idCommit o por el nombre de la rama donde estamos trabajando
+
+Git reset HEAD saca todos los archivos agregados con git add .
