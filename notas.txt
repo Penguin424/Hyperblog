@@ -1,0 +1,9 @@
+Git show te permite ver una comparacion entre el ultimo commit y el nuevo (HEAD)
+
+Git diff te permite ver una compracion entre un commit viejo y el nuevo o culquiera que quieras comparar
+
+Git log te permite ver la historia de todos los commits realizados  
+
+Git reset (idCommit) --hard regresa a ese estado en el commit borrando los que tenga enfrente
+
+Git reset (idCommit) --soft regresa a ese estado en el commit dejando los que tenga enfrente
