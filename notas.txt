@@ -21,3 +21,6 @@ Git checkout (nameBranch) nos permite movernos entre ramas y desarrollar en ella
 EL HEAD siempre se econtrara en el ultimo commit de cada rama en donde se ecuentre desarrollando 
 
 Cuando aparece un conflicto primero te aparece como es que tienes el archivo o la linea en la rama donde susedera el merge y luego la configuracion de la rama donde estas trayendo la info para el merge 
+
+git pull origin master --allow-unrelated-histories Por lo regular se usa este comando cuando creas el archivo readme desde gitHUb
+
