@@ -19,3 +19,5 @@ Git checkout -b (nameBranch) nos permite crear una rama y redireccionarnos a ell
 Git checkout (nameBranch) nos permite movernos entre ramas y desarrollar en ellas sin que se afecten entre si al igual que cambiara automaticamente los archivos que conincidan entre las ramas y tengan cosas difrentes en sus commits respectivos
 
 EL HEAD siempre se econtrara en el ultimo commit de cada rama en donde se ecuentre desarrollando 
+
+Cuando aparece un conflicto primero te aparece como es que tienes el archivo o la linea en la rama donde susedera el merge y luego la configuracion de la rama donde estas trayendo la info para el merge 
