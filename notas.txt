@@ -22,5 +22,6 @@ EL HEAD siempre se econtrara en el ultimo commit de cada rama en donde se ecuent
 
 Cuando aparece un conflicto primero te aparece como es que tienes el archivo o la linea en la rama donde susedera el merge y luego la configuracion de la rama donde estas trayendo la info para el merge 
 
-git pull origin master --allow-unrelated-histories Por lo regular se usa este comando cuando creas el archivo readme desde gitHUb
+Git pull origin master --allow-unrelated-histories Por lo regular se usa este comando cuando creas el archivo readme desde gitHUb
 
+Git remote set-url origin git@github.com:Penguin424/Hyperblog.git este comando se utliza para cambiar la url por el modo de ssh keys
